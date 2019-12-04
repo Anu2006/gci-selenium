@@ -1,7 +1,6 @@
 # gci-selenium
 selenium automation gci
 # steps
-1. get the website by the selenium driver.
-2. find the input boxes by there names
-3. sending keys to tha boxes
-4. clicking the submit button
+1. launch the python script in your pc.
+2. input data to the fields
+3. and wait a few seconds to program to finish the task
